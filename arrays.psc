@@ -15,7 +15,7 @@ Algoritmo arrays
 	empleado[0] = "juan";
 	empleado[1] = "pedro";
 	empleado[2] = "raul";
-	empleado[3] = "ernesto";
+	empleado[3] = "ernestooo";
 	empleado[4] = "ana";
 	
 	
